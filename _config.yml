@@ -1,0 +1,28 @@
+name: Peter LaBau Banjo
+favicon: null
+layout_spectrum: 0.03700567199848592
+typography_spectrum: 0.25333328591659665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.04392263223417103
+  lightness: 0.525688128778711
+  saturation: 0.772789902286604
+  rhythmicContrast: 0.18057696195319295
+purpose: []
